@@ -8,7 +8,7 @@
 #include <chrono>
 
 using namespace std;
-//
+
 #define PART_SIZE 500000
 #define RAND_ARR_SIZE 20000000 // ~100 mb
 // #define RAND_ARR_SIZE 100000000 // ~500 mb
